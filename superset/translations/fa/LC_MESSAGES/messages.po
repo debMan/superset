@@ -673,7 +673,7 @@ msgid "A database with the same name already exists."
 msgstr "یک پایگاه داده با همین نام از قبل وجود دارد."
 
 msgid "A date is required when using custom date shift"
-msgstr ""
+msgstr "هنگام استفاده از تغییر تاریخ سفارشی، تاریخ الزامی است"
 
 msgid ""
 "A dictionary with column names and their data types if you need to change "
