@@ -70,6 +70,7 @@ from superset.utils import core as utils, json
 from superset.utils.filters import get_dataset_access_filters
 from superset.utils.version import get_version_metadata
 from superset.views.error_handling import json_error_response
+
 from .utils import bootstrap_user_data, get_config_value
 
 FRONTEND_CONF_KEYS = (
