@@ -761,9 +761,6 @@ msgstr ""
 msgid "Add divider"
 msgstr ""
 
-msgid "Add filter"
-msgstr ""
-
 msgid "Add Layer"
 msgstr ""
 
@@ -3036,9 +3033,6 @@ msgid ""
 msgstr ""
 
 msgid "Create a new chart"
-msgstr ""
-
-msgid "Create chart"
 msgstr ""
 
 msgid "Create chart with dataset"
@@ -9182,9 +9176,6 @@ msgid "Show all columns"
 msgstr ""
 
 msgid "Show axis line ticks"
-msgstr ""
-
-msgid "Show cell bars"
 msgstr ""
 
 msgid "Show chart description"
