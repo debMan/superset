@@ -415,7 +415,7 @@ LANGUAGES = {
 # incomplete and not well maintained.
 LANGUAGES = {
     "en": {"flag": "us", "name": "English"},
-    "fa": {"flag": "fa", "name": "Persian"},
+    "fa": {"flag": "ir", "name": "Persian"},
 }
 
 
